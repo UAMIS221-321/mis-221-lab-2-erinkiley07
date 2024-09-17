@@ -1,0 +1,15 @@
+/Users/erinkiley/Desktop/MIS221/labsFall24/mis-221-lab-2-erinkiley07/bin/Debug/net8.0/mis-221-lab-2-erinkiley07
+/Users/erinkiley/Desktop/MIS221/labsFall24/mis-221-lab-2-erinkiley07/bin/Debug/net8.0/mis-221-lab-2-erinkiley07.deps.json
+/Users/erinkiley/Desktop/MIS221/labsFall24/mis-221-lab-2-erinkiley07/bin/Debug/net8.0/mis-221-lab-2-erinkiley07.runtimeconfig.json
+/Users/erinkiley/Desktop/MIS221/labsFall24/mis-221-lab-2-erinkiley07/bin/Debug/net8.0/mis-221-lab-2-erinkiley07.dll
+/Users/erinkiley/Desktop/MIS221/labsFall24/mis-221-lab-2-erinkiley07/bin/Debug/net8.0/mis-221-lab-2-erinkiley07.pdb
+/Users/erinkiley/Desktop/MIS221/labsFall24/mis-221-lab-2-erinkiley07/obj/Debug/net8.0/mis-221-lab-2-erinkiley07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erinkiley/Desktop/MIS221/labsFall24/mis-221-lab-2-erinkiley07/obj/Debug/net8.0/mis-221-lab-2-erinkiley07.AssemblyInfoInputs.cache
+/Users/erinkiley/Desktop/MIS221/labsFall24/mis-221-lab-2-erinkiley07/obj/Debug/net8.0/mis-221-lab-2-erinkiley07.AssemblyInfo.cs
+/Users/erinkiley/Desktop/MIS221/labsFall24/mis-221-lab-2-erinkiley07/obj/Debug/net8.0/mis-221-lab-2-erinkiley07.csproj.CoreCompileInputs.cache
+/Users/erinkiley/Desktop/MIS221/labsFall24/mis-221-lab-2-erinkiley07/obj/Debug/net8.0/mis-221-lab-2-erinkiley07.sourcelink.json
+/Users/erinkiley/Desktop/MIS221/labsFall24/mis-221-lab-2-erinkiley07/obj/Debug/net8.0/mis-221-lab-2-erinkiley07.dll
+/Users/erinkiley/Desktop/MIS221/labsFall24/mis-221-lab-2-erinkiley07/obj/Debug/net8.0/refint/mis-221-lab-2-erinkiley07.dll
+/Users/erinkiley/Desktop/MIS221/labsFall24/mis-221-lab-2-erinkiley07/obj/Debug/net8.0/mis-221-lab-2-erinkiley07.pdb
+/Users/erinkiley/Desktop/MIS221/labsFall24/mis-221-lab-2-erinkiley07/obj/Debug/net8.0/mis-221-lab-2-erinkiley07.genruntimeconfig.cache
+/Users/erinkiley/Desktop/MIS221/labsFall24/mis-221-lab-2-erinkiley07/obj/Debug/net8.0/ref/mis-221-lab-2-erinkiley07.dll
